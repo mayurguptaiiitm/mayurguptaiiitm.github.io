@@ -67,9 +67,9 @@ Based on the user survey conducted and the research done I created persona to
 represent the user type in order to understand the user needs, experiences, behavior
 and goals.
 
-[![User Persona](Images/MS_Persona.jpeg "Monitoring System Persona"){: width="720" }](Images/MS_Persona.jpeg "Monitoring System Persona")
+<!-- [![User Persona](Images/MS_Persona.jpeg "Monitoring System Persona"){: width="720" }](Images/MS_Persona.jpeg "Monitoring System Persona") -->
 
-<img src="Images/MS_Persona.jpeg" class="img-fluid" alt="Persona">
+<img src="/Images/MS_Persona.jpeg" class="img-fluid" alt="Persona">
 
 ## Task Model
 
@@ -78,7 +78,7 @@ decision making processes explained in the image below.
 
 <!-- [![Task Model](Images/MS_Task_Model.jpeg "Task Model"){: width="720" }](Images/MS_Task_Model.jpeg "Task Model") -->
 
-<img src="Images/MS_Task_Model.jpeg" class="img-fluid" alt="Task Model">
+<img src="/Images/MS_Task_Model.jpeg" class="img-fluid" alt="Task Model">
 
 # Feedback and Design iterations
 
@@ -89,7 +89,9 @@ Balsamiq to get into the users reaction of the design pattern
 and find if it is suitable for them or required more changes. Flow
 diagram below.
 
-[![Round 1 low fidelity](Images/MS_Balsamiq_Wireframe.png "low-fidelity wireframe"){: width="720" }](Images/MS_Balsamiq_Wireframe.png "low-fidelity wireframe")
+<!-- [![Round 1 low fidelity](Images/MS_Balsamiq_Wireframe.png "low-fidelity wireframe"){: width="720" }](Images/MS_Balsamiq_Wireframe.png "low-fidelity wireframe") -->
+
+<img src="/Images/MS_Balsamiq_Wireframe.png" class="img-fluid" alt="low-fidelity wireframe">
 
 **Feedback**
 
@@ -115,7 +117,9 @@ Mirror to test the prototype. Validating Ideas, and testing if it
 has improved the comprehension and user emotions around the
 monitoring.
 
-[![Round 2 mid fidelity](Images/MS_Mid_Fidelity.jpeg "mid-fidelity"){: width="720" }](Images/MS_Mid_Fidelity.jpeg "mid-fidelity")
+<!-- [![Round 2 mid fidelity](Images/MS_Mid_Fidelity.jpeg "mid-fidelity"){: width="720" }](Images/MS_Mid_Fidelity.jpeg "mid-fidelity") -->
+
+<img src="/Images/MS_Mid_Fidelity.jpeg" class="img-fluid" alt="mid-fidelity">
 
 Feedback
 
@@ -135,7 +139,9 @@ interact with the application to reach the desired state or action
 within a short period of time. Thus avoiding the use of bulky and
 overused features of competing applications.
 
-[![Final Round](Images/MS_Final_Round.jpeg "Final Delivery"){: width="720" }](Images/MS_Final_Round.jpeg "Final Delivery")
+<!-- [![Final Round](Images/MS_Final_Round.jpeg "Final Delivery"){: width="720" }](Images/MS_Final_Round.jpeg "Final Delivery") -->
+
+<img src="/Images/MS_Final_Round.jpeg" class="img-fluid" alt="Final Delivery">
 
 ## My thoughts on this today
 
