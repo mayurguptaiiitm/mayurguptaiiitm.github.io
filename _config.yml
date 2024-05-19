@@ -33,7 +33,8 @@ collections:
   portfolio:
     output: true
     order:
-      - test2.md
       - BlueStone.md
-      - test.md
+      - Charlii.md
       - MonitoringSystem.md
+      - YogaVidya.md
+      - MedTrainer.md
