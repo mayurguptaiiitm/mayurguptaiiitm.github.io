@@ -69,12 +69,16 @@ and goals.
 
 [![User Persona](Images/MS_Persona.jpeg "Monitoring System Persona"){: width="720" }](Images/MS_Persona.jpeg "Monitoring System Persona")
 
+<img src="Images/MS_Persona.jpeg" class="img-fluid" alt="Persona">
+
 ## Task Model
 
 I created **Task Model** to capture the understanding of the user's
 decision making processes explained in the image below.
 
-[![Task Model](Images/MS_Task_Model.jpeg "Task Model"){: width="720" }](Images/MS_Task_Model.jpeg "Task Model")
+<!-- [![Task Model](Images/MS_Task_Model.jpeg "Task Model"){: width="720" }](Images/MS_Task_Model.jpeg "Task Model") -->
+
+<img src="Images/MS_Task_Model.jpeg" class="img-fluid" alt="Task Model">
 
 # Feedback and Design iterations
 
