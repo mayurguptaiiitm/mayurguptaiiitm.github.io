@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  <script type="text/JavaScript">
+    //courtesy of BoogieJack.com
+    function killCopy(e){
+    return false
+    }
+    function reEnable(){
+    return true
+    }
+    document.onselectstart=new Function ("return false")
+    if (window.sidebar){
+    document.onmousedown=killCopy
+    document.onclick=reEnable
+    }
+    </script>
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ site.title }}</h1>
+            {% if site.description %}
+            <span class="subheading">{{ site.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+    <!--- This is added by me to ensure a portfolio folder is taken in and all the details from there is included in this. -->
+    <!-- Please make sure to edit this file in the format above where the blog posts are looped in similar way this should also loop in -->
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h1 class="section-title">My Projects & Case Studies</h1>
+            <br>
+            <br>
+          </div>
+        </div>
+        <div class="row shuffle-wrapper">
+          {% for portfolio in site.portfolio %}
+          <div class="col-lg-4 col-6 mb-4 shuffle-item">
+            <div class="position-relative rounded hover-wrapper text-center align-items hover-shadow">
+              <!-- {{ site.baseurl }}{{ post.background }} -->
+              <img src="{{ site.baseurl }}{{ portfolio.logo }}" width="250" height="300" alt="portfolio-image" class="img-fluid rounded w-100 d-block align-items">
+              <div class="hover-overlay">
+                <div class="hover-content">
+                  <a class="btn btn-light btn-sm align-items" href="{{ portfolio.url | prepend: site.baseurl | replace: '//', '/' }}">view project</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </div>
+
