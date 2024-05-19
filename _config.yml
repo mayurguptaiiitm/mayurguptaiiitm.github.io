@@ -1,0 +1,39 @@
+title:              "About Me"
+email:              smriti.prsd@gmail.com
+description:        "Hi! I am Smriti D. Prasad with the passion to drive for problem solving through empathy and tackling new challenges,
+                     and aim to create more efficient and impactful experiences. I help in turning any websites, mobile & tablet apps into more meaningful and intuitive designs." 
+author:             Smriti D. Prasad
+#baseurl:            "/startbootstrap-clean-blog-jekyll"
+# baseurl: "/mayurguptaiiitm.github.io"
+# url:                "/mayurguptaiiitm.github.io"
+baseurl: ""
+url: ""
+
+
+# Social Profiles
+twitter_username:   
+github_username:    
+facebook_username:  
+instagram_username:  
+linkedin_username: smritiprasadlinkedin
+
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+# paginate:           5
+# paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+collections:
+  portfolio:
+    output: true
+    order:
+      - test2.md
+      - BlueStone.md
+      - test.md
+      - MonitoringSystem.md
