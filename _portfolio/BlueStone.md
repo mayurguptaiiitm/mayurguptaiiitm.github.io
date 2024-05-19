@@ -59,6 +59,7 @@ Task:
 <!-- [![Usability Testing](Images/BS_Usability_Testing.png "Usability Testing"){: width="720" }](Images/BS_Usability_Testing.png "Usability Testing") -->
 <a href="/Images/BS_Usability_Testing.png">
 <img src="/Images/BS_Usability_Testing.png" class="img-fluid" alt="Usability Testing">
+<a href="#" id="closeLink">✖ Close</a>
 </a>
 The test results highlights the problems faced by users during the activity steps. Below with the help of personas and user journey map I have highlighted and summarized the design solutions which require small tweaks. As small changes can be done much faster and in a cost effective manner, it helps in reusing the same existing designs and avoid complexities.
 
