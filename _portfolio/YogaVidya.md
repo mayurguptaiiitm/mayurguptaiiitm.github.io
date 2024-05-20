@@ -26,11 +26,12 @@ To reach a more global audience in coming years for more distance education cour
 4. Analyse the current users of the website and identify the new users to the website and identify the problems they are facing. 
 <br>
 <br>
+
 # Process
 
-## Design Thinking
+### Design Thinking
 
-###  Analyzing the current website
+####  Analyzing the current website
 
 Reviewing and analyzing the aspects of the current website brought in a lot of problems some of which were really concerning. To provide a background, the website was created before by a 3rd party organization which took the liberty to embed their company website into the copyright line which was a hyperlink to a totally unrelated organization. This went unnoticed for a long time. Additionally most of the functionality was not in a working state and overall there were a lot of performance problems. 
 
