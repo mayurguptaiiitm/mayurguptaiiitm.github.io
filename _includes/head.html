@@ -32,18 +32,6 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <script async>
-    document.getElementById("closeLink").addEventListener("click", function(event) {
-        event.preventDefault(); // Prevent the default link behavior
-        history.back(); // Navigate back to the previous page
-    });
-</script>
 
-<script async>
-  document.querySelector(".image-container").addEventListener("click", function(event) {
-      event.preventDefault(); // Prevent the default link behavior
-      document.querySelector(".close-button").style.display = "inline"; // Show the close button
-  });
-</script>
 
 </head>

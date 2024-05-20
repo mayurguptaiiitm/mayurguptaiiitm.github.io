@@ -16,6 +16,20 @@
 
   {% include google-analytics.html %}
 
+  <script>
+    document.getElementById("closeLink").addEventListener("click", function(event) {
+        event.preventDefault(); // Prevent the default link behavior
+        history.back(); // Navigate back to the previous page
+    });
+</script>
+
+<script>
+  document.querySelector(".image-container").addEventListener("click", function(event) {
+      event.preventDefault(); // Prevent the default link behavior
+      document.querySelector(".close-button").style.display = "inline"; // Show the close button
+  });
+</script>
+
 </body>
 
 </html>
