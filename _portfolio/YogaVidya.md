@@ -29,10 +29,8 @@ To reach a more global audience in coming years for more distance education cour
 
 # Process
 <br>
-<br>
 
 ### Design Thinking
-<br>
 <br>
 
 ####  Analyzing the current website
