@@ -33,8 +33,9 @@ collections:
   portfolio:
     output: true
     order:
-      - BlueStone.md
-      - Charlii.md
-      - MonitoringSystem.md
-      - YogaVidya.md
       - MedTrainer.md
+      - BlueStone.md
+      - MonitoringSystem.md
+      - Charlii.md
+      - YogaVidya.md
+      
