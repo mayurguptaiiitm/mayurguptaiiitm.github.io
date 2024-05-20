@@ -9558,13 +9558,13 @@ header.masthead .post-heading .meta a {
 
 /* my own additions  */
 
+/* 
 
-  /* Style for the image container */
 .image-container {
     position: relative;
     cursor: pointer;
 }
-/* Style for the full-size image */
+
 .full-image {
     display: none;
     position: absolute;
@@ -9575,7 +9575,7 @@ header.masthead .post-heading .meta a {
     background-color: rgba(0, 0, 0, 0.8);
     z-index: 1;
 }
-/* Style for the close button */
+
 .close-button {
     position: absolute;
     top: 10px;
@@ -9583,4 +9583,4 @@ header.masthead .post-heading .meta a {
     color: #fff;
     font-size: 20px;
     cursor: pointer;
-}
+} */
