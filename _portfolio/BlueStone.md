@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 subtitle: "BlueStone Case Study"
-# background: '/Images/BlueStoneHeader.png'
+background: '/Images/Headers/BlueStone.png'
 logo: '/Images/Headers/BlueStone.png'
 ---
 
