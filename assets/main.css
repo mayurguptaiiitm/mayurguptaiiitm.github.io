@@ -9555,3 +9555,15 @@ header.masthead .post-heading .meta a {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* my own additions  */
+
+
+.close-button {
+    display: none; /* Initially hide the close button */
+}
+
+.image-container:hover .close-button {
+    display: inline; /* Show the close button when hovering over the image */
+}
+

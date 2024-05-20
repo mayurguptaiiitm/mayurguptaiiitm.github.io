@@ -58,8 +58,8 @@ Task:
 
 <!-- [![Usability Testing](Images/BS_Usability_Testing.png "Usability Testing"){: width="720" }](Images/BS_Usability_Testing.png "Usability Testing") -->
 <a href="/Images/BS_Usability_Testing.png">
-<img src="/Images/BS_Usability_Testing.png" class="img-fluid" alt="Usability Testing">
-<a href="#" id="closeLink">✖ Close</a>
+    <img src="/Images/BS_Usability_Testing.png" class="img-fluid" alt="Usability Testing">
+    <a href="#" id="closeLink" class="close-button">✖ Close</a>
 </a>
 The test results highlights the problems faced by users during the activity steps. Below with the help of personas and user journey map I have highlighted and summarized the design solutions which require small tweaks. As small changes can be done much faster and in a cost effective manner, it helps in reusing the same existing designs and avoid complexities.
 
@@ -71,7 +71,10 @@ We all already know that overhaul redesigns of systems often tend to annoy the u
 Based on the users interaction and activity data, I created 2 personas that represented the recruited participants to have the consolidated data at my disposal.
 
 <!-- [![Persona](Images/BS_Persona.png "Persona"){: width="720" }](Images/BS_Persona.png "Persona") -->
-<img src="/Images/BS_Persona.png" class="img-fluid" alt="Persona">
+<a href="/Images/BS_Persona.png">
+    <img src="/Images/BS_Persona.png" class="img-fluid" alt="Persona">
+    <a href="#" id="closeLink" class="close-button">✖ Close</a>
+</a>
 
 #### User Journey Map: 
 
