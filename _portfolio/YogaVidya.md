@@ -2,7 +2,7 @@
 layout: portfolio
 title: "Yoga Vidya Niketan"
 subtitle: "Yoga Vidya Niketan is yoga institute which teaches and conducts courses on Yoga and allied sciences."
-background: '/Images/YVN_Logo.jpeg'
+background: '/Images/YVN/YVN_Logo.jpeg'
 logo: '/Images/Headers/YogaVidyaNiketan.png'
 ---
 
