@@ -17,18 +17,17 @@
   {% include google-analytics.html %}
 
   <script>
-    document.getElementById("closeLink").addEventListener("click", function(event) {
-        event.preventDefault(); // Prevent the default link behavior
-        history.back(); // Navigate back to the previous page
-    });
-</script>
-
-<script>
-  document.querySelector(".image-container").addEventListener("click", function(event) {
-      event.preventDefault(); // Prevent the default link behavior
-      document.querySelector(".close-button").style.display = "inline"; // Show the close button
-  });
-</script>
+    // Function to open the full-size image
+    function openImage() {
+        document.querySelector('.full-image').style.display = 'block';
+    }
+    // Function to close the full-size image
+    function closeImage() {
+        document.querySelector('.full-image').style.display = 'none';
+    }
+    // Attach the click event to the thumbnail image
+    document.querySelector('.img-fluid').addEventListener('click', openImage);
+  </script>
 
 </body>
 

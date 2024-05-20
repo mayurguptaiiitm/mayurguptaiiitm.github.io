@@ -61,6 +61,13 @@ Task:
     <img src="/Images/BS_Usability_Testing.png" class="img-fluid" alt="Usability Testing">
     <a href="#" id="closeLink" class="close-button">✖ Close</a>
 </a>
+    <div class="image-container">
+        <img src="/Images/BS_Usability_Testing.png" class="img-fluid" alt="Usability Testing">
+        <div class="full-image">
+            <img src="/Images/BS_Usability_Testing.png" alt="Full-size Image">
+            <span class="close-button" onclick="closeImage()">×</span>
+        </div>
+    </div>
 The test results highlights the problems faced by users during the activity steps. Below with the help of personas and user journey map I have highlighted and summarized the design solutions which require small tweaks. As small changes can be done much faster and in a cost effective manner, it helps in reusing the same existing designs and avoid complexities.
 
 We all already know that overhaul redesigns of systems often tend to annoy the user more since they need to rediscover the app.
@@ -71,11 +78,13 @@ We all already know that overhaul redesigns of systems often tend to annoy the u
 Based on the users interaction and activity data, I created 2 personas that represented the recruited participants to have the consolidated data at my disposal.
 
 <!-- [![Persona](Images/BS_Persona.png "Persona"){: width="720" }](Images/BS_Persona.png "Persona") -->
-<a href="/Images/BS_Persona.png">
-    <img src="/Images/BS_Persona.png" class="img-fluid" alt="Persona">
-    <a href="#" id="closeLink" class="close-button">✖ Close</a>
-</a>
-
+    <div class="image-container">
+        <img src="/Images/BS_Persona.png" class="img-fluid" alt="Persona">
+        <div class="full-image">
+            <img src="/Images/BS_Persona.png" alt="Full-size Image">
+            <span class="close-button" onclick="closeImage()">×</span>
+        </div>
+    </div>
 #### User Journey Map: 
 
 I asked each participants to think out loud during testing to understand their actions and reactions with their words and perceptions on each occasion. I leveraged this to map the user journey and find the solution to their pain-points and blockers.
