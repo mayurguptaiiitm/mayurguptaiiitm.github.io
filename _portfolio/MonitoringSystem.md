@@ -3,7 +3,7 @@ layout: portfolio
 title: "Monitoring System"
 subtitle: "Mobile Application for Monitoring"
 background: '/Images/MonitoringSystemLogo.jpeg'
-logo: '/Images/MonitoringSystemLogo.jpeg'
+logo: '/Images/Headers/MonitoringSystem.png'
 ---
 
 <!-- ![Product Logo](Images/MonitoringSystemLogo.jpeg "Monitoring System") -->

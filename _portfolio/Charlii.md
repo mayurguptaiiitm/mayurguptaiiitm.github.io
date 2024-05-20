@@ -3,7 +3,7 @@ layout: portfolio
 title: "Charrli"
 subtitle: "Refill Your Routine"
 background: '/Images/Charlii_Img/CH_Header.jpeg'
-logo: '/Images/Charlii_Img/CH_Header.jpeg'
+logo: '/Images/Header/Charrli.png'
 ---
 
 
